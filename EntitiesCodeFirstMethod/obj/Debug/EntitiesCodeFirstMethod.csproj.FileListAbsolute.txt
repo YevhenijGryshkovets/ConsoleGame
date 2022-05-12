@@ -1,0 +1,16 @@
+I:\Projects\EntitiesCodeFirstMethod\EntitiesCodeFirstMethod\bin\Debug\EntitiesCodeFirstMethod.exe.config
+I:\Projects\EntitiesCodeFirstMethod\EntitiesCodeFirstMethod\bin\Debug\EntitiesCodeFirstMethod.exe
+I:\Projects\EntitiesCodeFirstMethod\EntitiesCodeFirstMethod\bin\Debug\EntitiesCodeFirstMethod.pdb
+I:\Projects\EntitiesCodeFirstMethod\EntitiesCodeFirstMethod\bin\Debug\EntityFramework.dll
+I:\Projects\EntitiesCodeFirstMethod\EntitiesCodeFirstMethod\bin\Debug\EntityFramework.SqlServer.dll
+I:\Projects\EntitiesCodeFirstMethod\EntitiesCodeFirstMethod\bin\Debug\EntityFramework.xml
+I:\Projects\EntitiesCodeFirstMethod\EntitiesCodeFirstMethod\bin\Debug\EntityFramework.SqlServer.xml
+I:\Projects\EntitiesCodeFirstMethod\EntitiesCodeFirstMethod\obj\Debug\EntitiesCodeFirstMethod.csproj.AssemblyReference.cache
+I:\Projects\EntitiesCodeFirstMethod\EntitiesCodeFirstMethod\obj\Debug\EntitiesCodeFirstMethod.csproj.SuggestedBindingRedirects.cache
+I:\Projects\EntitiesCodeFirstMethod\EntitiesCodeFirstMethod\obj\Debug\EntitiesCodeFirstMethod.csproj.CoreCompileInputs.cache
+I:\Projects\EntitiesCodeFirstMethod\EntitiesCodeFirstMethod\obj\Debug\EntitiesCodeFirstMethod.csproj.CopyComplete
+I:\Projects\EntitiesCodeFirstMethod\EntitiesCodeFirstMethod\obj\Debug\EntitiesCodeFirstMethod.exe
+I:\Projects\EntitiesCodeFirstMethod\EntitiesCodeFirstMethod\obj\Debug\EntitiesCodeFirstMethod.pdb
+I:\Projects\EntitiesCodeFirstMethod\EntitiesCodeFirstMethod\obj\Debug\EntitiesCodeFirstMethod.Migrations.InitialCreate.resources
+I:\Projects\EntitiesCodeFirstMethod\EntitiesCodeFirstMethod\obj\Debug\EntitiesCodeFirstMethod.csproj.GenerateResource.cache
+I:\Projects\EntitiesCodeFirstMethod\EntitiesCodeFirstMethod\obj\Debug\EntitiesCodeFirstMethod.Migrations.thirdTry.resources
